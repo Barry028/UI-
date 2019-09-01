@@ -1,2 +1,2 @@
-# UiDesign
+# Ui Design
 Ui基礎
