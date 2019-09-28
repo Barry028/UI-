@@ -1,10 +1,10 @@
 # 網⾴設計 or 介⾯設計？
-## IA Information Architecture 
+## 資訊架構 Information Architecture (IA)
 
-## UI
+## 介面設計 User Interface Design (UI)
 
-## UX
+## 使用者經驗設計 User Experience Design (UX)
 
-## VD
+## 視覺設計 Visual  Design (VD)
 
-## IXD
+## 交互設計 Interaction Design (IXD)
