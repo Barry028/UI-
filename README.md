@@ -26,6 +26,8 @@
 -- 文章參考 --
 * UX vs UI vs IA vs IxD：https://uxplanet.org/ux-vs-ui-vs-ia-vs-ixd-4-confusing-digital-design-terms-defined-1ae2f82418c7
 * 什麼是互動設計？：https://blog.akanelee.me/posts/166419-an-introduction-to-interaction-design/
+
+-- iOS & Android 設計規範 --
 * Google Material Design 設計規範(中文)：https://wcc723.gitbooks.io/google_design_translate/material-design-introduction.html
 * Human Interface Guidelines：https://developer.apple.com/design/human-interface-guidelines/
 
