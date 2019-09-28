@@ -22,7 +22,7 @@
 > 它定義了兩個或多個互動的個體之間交流的結構和行為。交互設計師致力於在人與產品/服務之間建立一種有效的關係，包括電腦、移動設備、應用等等。
 
 
-### 外部資源參考：
+## 外部資源參考：
 -- 文章參考 --
 * UX vs UI vs IA vs IxD：https://uxplanet.org/ux-vs-ui-vs-ia-vs-ixd-4-confusing-digital-design-terms-defined-1ae2f82418c7
 * 什麼是互動設計？：https://blog.akanelee.me/posts/166419-an-introduction-to-interaction-design/
