@@ -16,11 +16,15 @@
   * 運用：帶有人文氣息，因此大多會運用在具有歷史、文學、文化的內容。
 &nbsp;
 
+-- 文章參考 -- [Google fonts 的字體（serif 篇）](https://blog.justfont.com/2014/06/google-fonts-1/)
+
 ![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/002.png)
 * ### Sans-serif 無襯線字體 ###
   * 外觀：無論中英文皆沒有任何裝飾線。
   * 運用：較無個性，帶給人科技、現代、正式的感覺，使用上非常廣泛。
 &nbsp;
+
+-- 文章參考 -- [Google fonts 的字體（sans-serif 篇）](https://blog.justfont.com/2014/06/google-fonts-2/)
 
 ![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/003.png)
 
@@ -28,7 +32,7 @@
 
 * ### 中文 - 黑體 ###
   * 外觀：粗細一致。
- 
+
 「黑體，就是將文字骨架加粗後，維持所有筆畫造型與視覺上的粗細一致，且起筆、收筆是切平的字體風格。」順帶一提，將「切平」改為「收圓」，就是圓體囉！
 &nbsp;
 
