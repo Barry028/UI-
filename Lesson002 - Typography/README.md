@@ -16,7 +16,7 @@
   * 運用：帶有人文氣息，因此大多會運用在具有歷史、文學、文化的內容。
 &nbsp;
 
-`-- 文章參考 -- [Google fonts 的字體（serif 篇）](https://blog.justfont.com/2014/06/google-fonts-1/)`
+>> -- 文章參考 -- [Google fonts 的字體（serif 篇）](https://blog.justfont.com/2014/06/google-fonts-1/)
 
 ![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/002.png)
 * ### Sans-serif 無襯線字體 ###
@@ -24,7 +24,7 @@
   * 運用：較無個性，帶給人科技、現代、正式的感覺，使用上非常廣泛。
 &nbsp;
 
-> -- 文章參考 -- [Google fonts 的字體（sans-serif 篇）](https://blog.justfont.com/2014/06/google-fonts-2/)
+>> -- 文章參考 -- [Google fonts 的字體（sans-serif 篇）](https://blog.justfont.com/2014/06/google-fonts-2/)
 
 ![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/003.png)
 
@@ -38,20 +38,18 @@
 
 ![image](https://blog.justfont.com/wp-content/uploads/2018/08/image_preview-11-1024x313.png)
 
-> -- 文章參考 -- [黑體造型重點](https://blog.justfont.com/2018/08/jf-typeclass-intro-3/)
+>> -- 文章參考 -- [黑體造型重點](https://blog.justfont.com/2018/08/jf-typeclass-intro-3/)
 
 * ### 中文 - 明體 ###
   * 外觀：點如垂露、撇似刀、勾似鵝頭、捺如掃、口字上下多一段、橫尾有山、彎帶角。
   
-> 明體造型源於書法楷書，是為了快速雕刻才簡化輪廓。它如刀痕的銳利筆劃，反映出雕刻體的風格。
-
-> 簡化橫筆、結尾有山，亦即橫筆收成一條細線，在尾巴有一座山的造型，是明體的最大特色。
-
+> 明體造型源於書法楷書，是為了快速雕刻才簡化輪廓。它如刀痕的銳利筆劃，反映出雕刻體的風格。<br/>
+> 簡化橫筆、結尾有山，亦即橫筆收成一條細線，在尾巴有一座山的造型，是明體的最大特色。<br/>
 > 明體造型口訣：「點如垂露撇似刀，勾似鵝頭捺如掃。口字上下多一段，橫尾有山彎帶角。」
 
 ![image](https://blog.justfont.com/wp-content/uploads/2018/09/image_preview-11-1-1024x427.png)
 
--- 文章參考 -- [明體造型重點](https://blog.justfont.com/2018/09/jf-typeclass-intro-4/)
+>> -- 文章參考 -- [明體造型重點](https://blog.justfont.com/2018/09/jf-typeclass-intro-4/)
 
 而系統上也都有包含預設襯線與無襯線所預設的中英文字體，除了上述兩種外系統內還有 Cursive、Fantasy、Monospace，但這些字體就並非有完全對應的中英文，實作上還是以襯線與無襯線兩種為主。
 
