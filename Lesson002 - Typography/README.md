@@ -20,7 +20,6 @@
 * ### Sans-serif 無襯線字體 ###
   * 外觀：無論中英文皆沒有任何裝飾線。
   * 運用：較無個性，帶給人科技、現代、正式的感覺，使用上非常廣泛。
-  
 &nbsp;
 
 ![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/003.png)
