@@ -44,4 +44,4 @@
 * [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
 -- 下章節介紹 --
-* 字體風格、尺寸、粗細的重要性
+* [介面設計 - 系統字體介紹](https://github.com/Barry028/UI-Design/tree/master/Lesson002%20-%20Typography)
