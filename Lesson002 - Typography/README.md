@@ -40,7 +40,7 @@
 
 >> -- 文章參考 -- [黑體造型重點](https://blog.justfont.com/2018/08/jf-typeclass-intro-3/)
 
-![image](https://blog.justfont.com/wp-content/uploads/2018/08/image_preview-11-1024x313.png)
+![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/008.png)
 
 ### 4. 中文 - 明體
    * 外觀：點如垂露、撇似刀、勾似鵝頭、捺如掃、口字上下多一段、橫尾有山、彎帶角。
@@ -51,7 +51,7 @@
 
 >> -- 文章參考 -- [明體造型重點](https://blog.justfont.com/2018/09/jf-typeclass-intro-4/)
 
-![image](https://blog.justfont.com/wp-content/uploads/2018/09/image_preview-11-1-1024x427.png)
+![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/009.png)
 
 而系統上也都有包含預設襯線與無襯線所預設的中英文字體，除了上述兩種外系統內還有 Cursive、Fantasy、Monospace，但這些字體就並非有完全對應的中英文，實作上還是以襯線與無襯線兩種為主。
 
