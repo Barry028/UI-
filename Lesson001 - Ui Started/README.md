@@ -1,8 +1,8 @@
 ----- 請在上方下載檔案 -----
 # 網⾴設計 & 介⾯設計？
 ## 範例檔內含：
-1. 介面設計簡報 PDF 
-2. ADOBE XD 製作的原始簡報檔案 (可以下載參考此簡報是如何設計的)
+1. [介面設計簡報PDF](https://github.com/Barry028/UI-Design/blob/master/Lesson001%20-%20Ui%20Started/%E4%BB%8B%E9%9D%A2%E8%A8%AD%E8%A8%88.pdf)
+2. [ADOBE XD 製作的原始簡報檔案 (可以下載參考此簡報是如何設計的)](https://github.com/Barry028/UI-Design/blob/master/Lesson001%20-%20Ui%20Started/%E4%BB%8B%E9%9D%A2%E8%A8%AD%E8%A8%88.xd)
 
 &nbsp;
 
