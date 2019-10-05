@@ -22,7 +22,6 @@
 &nbsp;
 
 ![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/003.png)
-
 &nbsp;
 
 中文部分則是稱為黑體及明體，外觀上明體接近於「歐文襯線字體」；黑體則接近於「歐文無襯線字體」。這兩者有許多文件會視為同類別（如：黑體 == 歐文無襯線字體），但也有許多專業設計師會視為不同類別，在此特別說明。
