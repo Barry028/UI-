@@ -50,11 +50,11 @@
 ### Android
 Android 雖然有提供系統字體，但各家廠商製作手機時依然可以調整預設的系統字體，在此僅是提供主要的預設字體。
 > 英文：Roboto ，這一款字體運用上也是非常靈活，擁有 6 種字體且均另有斜體（italic，共 12 種），根據 Google Fonts 的統計，這個字體已經運用在 22,000,000 個網站上。
-
-> 中文字體：資料上顯示有兩款 Droidsansfallback 及 Noto Sans（我傾向是後者，有錯請指正），Noto Sans 是 Google 與 Adobe 公司共同研發的開源字體，包含 7 種常用字重並且幾乎包含所有中文字，號稱最不會缺字的字體庫，目前是設計師必備的中文字體。
+![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/005.png)
+> 中文字體：資料上顯示有兩款 Droidsansfallback 及 Noto Sans，Noto Sans 是 Google 與 Adobe 公司共同研發的開源字體，包含 7 種常用字重並且幾乎包含所有中文字，號稱最不會缺字的字體庫，目前是設計師必備的中文字體。
 
 另外提到，Noto Sans 是 Google 及 Adobe 合作的字體，在 Adobe 的服務中稱這套字體為「思源黑體」，在繁體中文的國家中，Noto Sans 基本上也是依據台灣官方規定的筆畫規則，是一款非常優秀的字體。
-
+![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/006.png)
 # 結語
 了解預設字體是非常重要的，原因是「系統字體」是經過系統廠商所優化，普遍來說在各種情境都有較好的閱讀性；此外，每台電腦所安裝的字體也會有所不同，不可能要求一般用戶去下載未授權的字體，或是下載 Noto Sans 來做使用。
 
