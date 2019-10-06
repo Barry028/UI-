@@ -125,7 +125,7 @@ Android 雖然有提供系統字體，但各家廠商製作手機時依然可以
 > 字嗨社團會有很多字體高手在裡面分享文章及交流，很多人在路上看到很棒的字體會上去詢問是什麼字型之類的，建議加入！
 
 -- 下章節介紹 --
-* [介面設計 - 系統字體介紹](https://github.com/Barry028/UI-Design/tree/master/Lesson002%20-%20Typography)
+* [ADOBE XD 入門基礎]()
 
 
 
