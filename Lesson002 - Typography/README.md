@@ -116,11 +116,13 @@ Android 雖然有提供系統字體，但各家廠商製作手機時依然可以
 * [華康字型](https://www.dynacw.com.tw/)
 * [ADOBE TYPEKIT](https://fonts.adobe.com/typekit)
 
--- 部落格參考 --
-* [JUST FONT BLOG](https://blog.justfont.com/)
+-- 部落格 --
+* [JUST FONT 部落格](https://blog.justfont.com/)
 
--- 粉絲團 --
+-- Facebook 社群 --
 * [字戀](https://www.facebook.com/lovefonts/)
+* [字嗨過頭：字取其辱戀](https://www.facebook.com/groups/annoyfonts/)
+> 字嗨社團會有很多字體高手在裡面分享文章及交流，很多人在路上看到很棒的字體會上去詢問是什麼字型之類的，建議加入！
 
 -- 下章節介紹 --
 * [介面設計 - 系統字體介紹](https://github.com/Barry028/UI-Design/tree/master/Lesson002%20-%20Typography)
