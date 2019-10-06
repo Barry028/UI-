@@ -106,5 +106,25 @@ Android 雖然有提供系統字體，但各家廠商製作手機時依然可以
 2. 用戶並未安裝該字體，導致畫面不如預期
 3. 缺字，導致字體顯示不一
 
+&nbsp;
+
+## 外部資源參考：
+-- 網路字體商 --
+* [JUST FONT 就是字！](https://justfont.com/)
+* [JUST FONT就是字](https://justfont.com/)
+* [GOOGLE FONTS](https://fonts.google.com/)
+* [文鼎科技](http://www.arphic.com.tw)
+* [華康字型](https://www.dynacw.com.tw/)
+* [ADOBE TYPEKIT](https://fonts.adobe.com/typekit)
+
+-- 部落格參考 --
+* [JUST FONT BLOG](https://blog.justfont.com/)
+
+-- 粉絲團 --
+* [字戀](https://www.facebook.com/lovefonts/)
+
+-- 下章節介紹 --
+* [介面設計 - 系統字體介紹](https://github.com/Barry028/UI-Design/tree/master/Lesson002%20-%20Typography)
+
 
 
