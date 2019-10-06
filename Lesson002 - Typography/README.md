@@ -111,7 +111,6 @@ Android 雖然有提供系統字體，但各家廠商製作手機時依然可以
 ## 外部資源參考：
 -- 網路字體商 --
 * [JUST FONT 就是字！](https://justfont.com/)
-* [JUST FONT就是字](https://justfont.com/)
 * [GOOGLE FONTS](https://fonts.google.com/)
 * [文鼎科技](http://www.arphic.com.tw)
 * [華康字型](https://www.dynacw.com.tw/)
