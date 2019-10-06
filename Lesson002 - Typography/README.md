@@ -57,7 +57,7 @@
 
 ![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20Typography/img/009.png)
 
-而系統上也都有包含預設襯線與無襯線所預設的中英文字體，除了上述兩種外系統內還有 Cursive、Fantasy、Monospace，但這些字體就並非有完全對應的中英文，實作上還是以襯線與無襯線兩種為主。
+而系統上也都有包含預設襯線與無襯線所預設的中英文字體，除了上述兩種外系統內還有 Cursive(草書)、Fantasy(藝術字)、Monospace(等寬字)，但這些字體就並非有完全對應的中英文，實作上還是以襯線與無襯線兩種為主。
 
 &nbsp;
 
