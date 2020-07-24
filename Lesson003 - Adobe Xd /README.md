@@ -23,6 +23,7 @@
 * 了解 元件庫、圖層、外掛
 * 畫板設定 (網格系統)
 * 快捷鍵認識 
+
 ### 第一層「單鍵工具」
 
 #### 「V」選取
@@ -34,8 +35,11 @@
 #### 「E」繪製圓形
 常見於製作 icon 、user avatar等，透過漸層色可搭配出多變的視覺。
 
+#### 「R」繪製四邊形
+常見於 header 、button製作等，拉出四邊形後輕曳四角可以拉出圓角。
+
 #### 「Y」繪製多邊形
-繪製多邊形狀，從三角形開始，可在右側編輯邊線數
+繪製多邊形狀，從三角形開始，可在右側編輯邊線數。
 
 #### 「L」繪製直線
 若覺得介面太單調，在段落之間畫一條線調低透明度往往有不錯的效果。需注意的是 Line 是建立在 border 上，不是填充色。
@@ -53,64 +57,66 @@
 
 ### 第二層「雙鍵動作」
 
-#### Command (Ctrl) + “~”
+#### Command (Ctrl) + "~"
 可快速切換不同 .xd 檔案，在多工操作情況下省時省力。
 
-#### Command (Ctrl) + “3”
+#### Command (Ctrl) + "3"
 狙擊。選定物件後縮放至適合大小。
 
-#### Command (Ctrl) + “0”
+#### Command (Ctrl) + "0"
 望遠鏡。可一次綜覽所有 Artboard。
 
-#### Command (Ctrl) + “-”
+#### Command (Ctrl) + "-"
 縮放讓視野往後看一點。
 
-#### Command (Ctrl) + “E”
+#### Command (Ctrl) + "E"
 #### 匯出選擇的 Artboard 或物件。
 縮放用兩指划動觸控板或 按 option(alt) 後滾動滑鼠滾輪也可
 
-#### Command (Ctrl) + “Q”
+#### Command (Ctrl) + "Q"
 結束 Adobe Xd，不要拿來開同事玩笑。
 
-#### Command (Ctrl) + “W”
+#### Command (Ctrl) + "W"
 關閉目前 Adobe Xd 專案。
 
-#### Command (Ctrl) + “E”
+#### Command (Ctrl) + "E"
 匯出目前選擇的 Artboard 或 物件。
 
-#### Command (Ctrl) + “R”
-製作 Repeat Grid 。*Adobe Xd 重點功能
+#### Command (Ctrl) + "R"
+製作 Repeat Grid 。
+* Adobe Xd 重點功能 *
 
-#### Command (Ctrl) + “Y”
-顯示/關閉圖層列。
+#### Command (Ctrl) + "Y"
+顯示 / 關閉圖層列。
 
-#### Command (Ctrl) + “S”
+#### Command (Ctrl) + "S"
 儲存目前檔案，在台灣地震時需反射動作使用。
 
-#### Command (Ctrl) + “G”
+#### Command (Ctrl) + "G"
 比選起來的多個物件群組起來。
 
-#### Command (Ctrl) + “K”
+#### Command (Ctrl) + "K"
 將當前物件儲存為 symbol。
 
-#### Command (Ctrl) + “L”
+#### Command (Ctrl) + "L"
 將當前物件鎖起來不能動。
 
-#### Command (Ctrl) + “;”
+#### Command (Ctrl) + ";"
 將當前物件隱藏或顯示。
-#### Command (Ctrl) + “return (enter)”
+
+#### Command (Ctrl) + "return (enter)"
 預覽(preview)目前的設計稿。
 
-#### Command (Ctrl) + “Z”
-回到上一動。
+#### Command (Ctrl) + "Z"
+回到上一步驟。
 
-#### Command (Ctrl) + “C”
-大學生最會的複製。
+#### Command (Ctrl) + "C"
+複製。
 
-#### Command (Ctrl) + “V”
-大學生最會的貼上。
+#### Command (Ctrl) + "V"
+貼上。
 
-#### Command (Ctrl) + “N”
+#### Command (Ctrl) + "N"
 開啟新的 .xd 專案。
 
 &nbsp;
