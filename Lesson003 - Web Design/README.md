@@ -1,9 +1,11 @@
 ----- 請在上方下載課程範例檔及簡報 -----
 # HTML、CSS 基礎課程
 ## 範例檔內含：
-1. label_example(常用標籤介紹)
-2. colorpalette_selector(色票板、選擇器介紹)
-3. colorpalette_css_specificility(樣式權重說明範例)
+1. HTML、CSS 基礎課程 PDF 
+2. ADOBE XD 製作的原始簡報檔案 (可以下載參考此簡報是如何設計的)
+
+&nbsp;
+
 ## 課程概要：
 1. 網頁介面的基本認識
 2. HTML 標示語言
@@ -11,6 +13,9 @@
 4. CSS 樣式表
 5. 開發人員工具介紹
 6. 樣式權重
+
+&nbsp;
+
 ## 重點回顧：
 * HTML 為一**標示語言**，本質上是將網頁文檔內容建構成**樹狀結構**，也就是 **DOM(Document Object Model) 文件物件模型**，固有父子層、相鄰層的關係。 
 * HTML 為**網頁骨架**，副檔名為 **.html**
