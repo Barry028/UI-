@@ -25,13 +25,10 @@
 * 基本結構：
 
     ```
-    <!DOCTYPE html>
-    <!--宣告文件格式-->
-    <html lang="zh-Hans-TW">
-    <!--語言-->
-    <head><!--通常放置網頁重要資訊-->
-        <meta charset="UTF-8">
-        <!--編碼-->
+    <!DOCTYPE html>  <!--宣告文件格式-->
+    <html lang="zh-Hans-TW">  <!--語言-->
+    <head>  <!--通常放置網頁重要資訊-->
+        <meta charset="UTF-8">  <!--編碼-->
         <title>Document</title>
     </head>
     <body>
