@@ -16,57 +16,37 @@
 
 ## 重點回顧：
 * 目前常見 UI設計軟體為：
-1. Sketch
-2. Adobe xD
-3. Figma
+1. Sketch https://www.sketch.com/
+2. Adobe XD https://www.adobe.com/tw/products/xd.html
+3. Figma https://www.figma.com/
 
 * 了解 元件庫、圖層、外掛
-* 基本操作 畫板設定 （網格系統）
-* 為了方便撰寫，我們會將 HTML 寫成**巢狀結構**
-* `<開頭標籤 屬性="值">內容</結尾標籤>`
-* 基本結構：
+* 畫板設定 (網格系統)
+* 快捷鍵認識 
+### 第一層「單鍵工具」
+#### 「A」新增工作區域增
+點擊後可利用鼠標拉出自訂大小的畫布 (Artboard)，或是從右側邊欄選擇常見裝置尺寸。
+#### 「E」繪製圓形
+常見於製作 icon 、user avatar等，透過漸層色可搭配出多變的視覺。
+#### 「R」繪製四邊形
+常見於 header 、button製作等，拉出四邊形後輕曳四角可以拉出圓角。
+#### 「L」繪製直線
+若覺得介面太單調，在段落之間畫一條線調低透明度往往有不錯的效果。需注意的是 Line 是建立在 border 上，不是填充色。
+#### 「P」鋼筆工具
+用習慣 Illustrator 的人更好上手，可以用來畫出任何你想要的形狀，其運算原理就是高中數學課的 “貝茲曲線”，要做好向量檔圖形必會技能。
+#### 「T」文字工具
+不管是設計網頁或App等，文字編排的組成佔了大宗，拉出來的文字區塊可利用周圍調整大小至適合的排版位置。
+#### 「V」選取
+基本上是我操作 Adobe Xd 的一個起手式，可以避免手殘按成其他繪製狀態，並可隨時點選我要的物件。
 
-    ```
-    <!DOCTYPE html><!--宣告文件格式-->
-    <html lang="zh-Hans-TW"><!--語言-->
-    <head><!--通常放置網頁重要資訊-->
-        <meta charset="UTF-8"><!--編碼-->
-        <title>Document</title><!---->
-    </head>
-    <body><!--顯示內容-->
+&nbsp;
 
-    </body>
-    </html>
-    ```
-* 無結尾標籤 **Singleton tags** 會出現在樹狀模型的末端，也就是裡面**不會有內容**，常見的有：`<img>、<br>、<hr>、<link>等等`
-* **相對路徑：** 從該文件位置出發到另一檔案的路徑
-* **絕對路徑：** 透過 IP 到達的路徑
-* HTML5 標籤增加了**語意化標籤、多媒體**
-* 為了方便管理樣式，不太會將樣式寫在 style 屬性中
-* **CSS(Cascading Style Sheets) 疊層樣式表**為一用來描述**樣式**的一份文件，透過**選擇器(selector)** 選取 HTML 結構上的元素做樣式的變化
-* 一定要記得用 `<link rel="stylesheet" href="檔案路徑">` 將樣式加到 HTML 中
-* 請善用**開發人員工具**作為除錯工具，對頁面按 右鍵 > 檢查！！
-* 使用 **CSS 選擇器**原則：
-    1. 若選擇器或樣式選取的元素相同，後寫的會蓋掉先寫的
-    2. 多用**類別選擇器(.class)**
-    3. 少用**元素選擇器(element)**，很容易有樣式重疊的問題
-    4. 視情況使用 **id 選擇器(#id)**，同一頁面通常只會有一個，或留給其他語言操作的空間
-    5. 注意**權重問題**：!important > style > #id > .class > element
-        分數可註記為：0-0-0-0-0
-    6. !important 有很高的權重，故要謹慎使用
-
-### 外部資源參考：
+## 外部資源參考：
 -- 課程 --
 * HTML 標籤 (W3C)：https://www.w3schools.com/tags/
-* 無結尾標籤 Singleton：https://www.thoughtco.com/html-singleton-tags-3468620
-* CSS 選擇器 (W3C)：https://www.w3schools.com/cssref/css_selectors.asp
-* Emmet 快速鍵表：https://docs.emmet.io/cheat-sheet/
-* 權重圖片說明：http://cssspecificity.com/
 
 -- 設計靈感 --
 * 色票靈感網站：http://colorhunt.co/
-* Colors-canva's design：https://www.canva.com/colors/
-* 設計師必讀的色彩心理學：https://buzzorange.com/techorange/2017/08/10/blue-is-most-important-color-for-ui-design/
 
 -- 討論文章 --
 * 一般網頁容量大小：https://buzzorange.com/techorange/2017/08/10/blue-is-most-important-color-for-ui-design/
