@@ -126,7 +126,7 @@
 
 &nbsp;
 
-![image](img/keyboard-3.jpg)
+<img src="img/keyboard-3.jpg" width="50%">
 
 ### 第三層「三鍵組合技」
 
