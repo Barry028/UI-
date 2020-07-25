@@ -9,23 +9,22 @@
 ## 課程概要：
 1. 常見的 UI 設計軟體
 2. 操作工具介紹
-3. 基本操作
-4. 快捷鍵
+3. 基本常用操作
+4. 常用 快捷鍵
 
 &nbsp;
 
 ## 重點回顧：
 * 目前常見 UI設計軟體為：
-1. Sketch https://www.sketch.com/
-2. Adobe XD https://www.adobe.com/tw/products/xd.html
-3. Figma https://www.figma.com/
+1. Sketch   -  https://www.sketch.com/
+2. Adobe XD -  https://www.adobe.com/tw/products/xd.html
+3. Figma    -  https://www.figma.com/
 
-* 了解 元件庫、圖層、外掛
+* 元件庫、圖層、外掛
 * 畫板設定 (網格系統)
-* 快捷鍵認識 
+* 快捷鍵的認識 
 
-
-![image](img/keyboard-1.jpg)
+<img src="img/keyboard-1.jpg" style="width: 60%">
 
 ### 第一層「單鍵工具」
 
@@ -58,7 +57,7 @@
 
 &nbsp;
 
-![image](img/keyboard-2.jpg)
+<img src="img/keyboard-2.jpg" style="width: 60%">
 
 ### 第二層「雙鍵動作」
 
@@ -126,7 +125,7 @@
 
 &nbsp;
 
-![image](img/keyboard-3.jpg)
+<img src="img/keyboard-3.jpg" style="width: 60%">
 
 ### 第三層「三鍵組合技」
 
