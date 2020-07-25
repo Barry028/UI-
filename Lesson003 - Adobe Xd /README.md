@@ -121,12 +121,35 @@
 
 &nbsp;
 
+### 第二層「雙鍵動作」
+
+#### Command (Ctrl) + Shift + T
+將目前文字樣式儲存進 Assets。
+
+#### Command (Ctrl) + Shift + S
+另存新檔。
+
+#### Command (Ctrl) + Shift + G
+解散群組。
+
+#### Command (Ctrl) + Shift + Z
+還原「回到上一動」指令。
+
+#### Command (Ctrl) + Shift + C
+將當前物件顏色儲存至 Assets。
+
+#### Command (Ctrl) + Shift + M
+將多形狀或照片重疊後，製作剪裁遮色片 (Mask with shape)。
+
+&nbsp;
+
 ## 外部資源參考：
--- 課程 --
-* HTML 標籤 (W3C)：https://www.w3schools.com/tags/
+-- UI KIT --
+* XDguru：https://www.xdguru.com/adobe-xd-ui-kits/
+* Sketchappsources：https://www.sketchappsources.com/category/mobile.html
 
--- 設計靈感 --
-* 色票靈感網站：http://colorhunt.co/
+-- ICON --
+* Flaticonhttps://www.flaticon.com/
 
--- 討論文章 --
-* 一般網頁容量大小：https://buzzorange.com/techorange/2017/08/10/blue-is-most-important-color-for-ui-design/
+-- 設計素材 --
+* Freepik：https://www.freepik.com/home
