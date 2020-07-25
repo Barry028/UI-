@@ -62,7 +62,7 @@
 * 無結尾標籤 Singleton：https://www.thoughtco.com/html-singleton-tags-3468620
 * CSS 選擇器 (W3C)：https://www.w3schools.com/cssref/css_selectors.asp
 * Emmet 快速鍵表：https://docs.emmet.io/cheat-sheet/
-* 權重圖片說明：http://cssspecificity.com/
+* 權重圖片說明：https://cssspecificity.com/
 
 -- 設計靈感 --
 * 色票靈感網站：http://colorhunt.co/
