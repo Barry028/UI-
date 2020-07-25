@@ -3,6 +3,7 @@
 ## 範例檔內含：
 1. HTML、CSS 基礎課程 PDF 
 2. ADOBE XD 製作的原始簡報檔案 (可以下載參考此簡報是如何設計的)
+3. EXAMPLE 網頁練習檔案
 
 &nbsp;
 
@@ -69,7 +70,7 @@
 * 設計師必讀的色彩心理學：https://buzzorange.com/techorange/2017/08/10/blue-is-most-important-color-for-ui-design/
 
 -- Favicon製作 --
-realfavicongenerator：https://realfavicongenerator.net/
+* realfavicongenerator：https://realfavicongenerator.net/
 
 -- 討論文章 --
 * 一般網頁容量大小：https://buzzorange.com/techorange/2017/08/10/blue-is-most-important-color-for-ui-design/
