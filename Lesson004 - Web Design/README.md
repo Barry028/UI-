@@ -7,12 +7,12 @@
 &nbsp;
 
 ## 課程概要：
-1. 網頁介面的基本認識
+1. 原子設計
 2. HTML 標示語言
-3. 常見標籤介紹
+3. HTML 標籤介紹
 4. CSS 樣式表
 5. 開發人員工具介紹
-6. 樣式權重
+6. CSS 樣式權重
 
 &nbsp;
 
@@ -67,6 +67,9 @@
 * 色票靈感網站：http://colorhunt.co/
 * Colors-canva's design：https://www.canva.com/colors/
 * 設計師必讀的色彩心理學：https://buzzorange.com/techorange/2017/08/10/blue-is-most-important-color-for-ui-design/
+
+-- Favicon製作 --
+realfavicongenerator：https://realfavicongenerator.net/
 
 -- 討論文章 --
 * 一般網頁容量大小：https://buzzorange.com/techorange/2017/08/10/blue-is-most-important-color-for-ui-design/

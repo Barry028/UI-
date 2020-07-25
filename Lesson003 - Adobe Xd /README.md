@@ -155,7 +155,7 @@
 * Sketchappsources：https://www.sketchappsources.com/category/mobile.html
 
 -- ICON --
-* Flaticonhttps://www.flaticon.com/
+* Flaticon：https://www.flaticon.com/
 
 -- 設計素材 --
 * Freepik：https://www.freepik.com/home
