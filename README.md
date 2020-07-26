@@ -1,7 +1,7 @@
 
 # UI 設計快速上手
 
-<img src="Lesson002 - 基本字型介紹/img/uiux.svg" alt="uiux">
+<img src="Lesson002 - 基本字型介紹/img/img-ui.svg" alt="uiux">
 
 
 ## 1. 設計概念
