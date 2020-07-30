@@ -12,11 +12,11 @@
 字體：
 ------
 
-![image](img/fontstyle.png)
+![image](img/fontstyle.svg)
 
 ### 1. 粉圓體
 
-![image](img/genyogothictw.png)
+![image](img/genyogothictw.svg)
 
 「jf open 粉圓字型」是基於 Kosugi Maru 改作，由 justfont 設計師針對台灣日常應用加以優化的開源字型。
 
@@ -26,7 +26,7 @@
 
 ### 2. 台灣圓體
 
-![image](img/taiwanPearl.png)
+![image](img/taiwanPearl.svg)
 
 「台灣圓體」基於思源黑體與小杉圓體，大多的字是思源黑體為主，有部份的中文使用小杉圓體的中文字。
 
