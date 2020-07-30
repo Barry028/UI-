@@ -6,7 +6,7 @@
 &nbsp;
 
 ## 字體排版：
-![image](https://github.com/Barry028/UI-Design/blob/master/ /img/001.png)
+![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/001.png)
 
 字體一直是設計師排版的關鍵之一，但由於網頁設計受到技術、法規、網路影響，在網頁上能夠使用的字體非常有限，本篇文章其實並非告訴大家怎麼使用字體才會「美」，而是了解字體運用上的「限制」，避免設計出執行上有困難或是效能極差的網頁。
 
