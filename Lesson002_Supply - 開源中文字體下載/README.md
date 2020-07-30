@@ -1,4 +1,4 @@
-好用開源中文字體下載
+開源中文字體下載
 ======
 
 &nbsp;
@@ -146,4 +146,4 @@ Genju Gothic（Genju Gothic）是一種免費的OpenType字體，主要有分成
 
 --- 下章節介紹 ---
 
-* [基本字型介紹](https://github.com/Barry028/Ui-Design/tree/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9)
+* [UI設計軟體 [XD]](https://github.com/Barry028/Ui-Design/tree/master/Lesson003%20-%20UI%E8%A8%AD%E8%A8%88%E8%BB%9F%E9%AB%94%20%5BXD%5D)
