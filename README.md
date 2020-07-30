@@ -5,7 +5,7 @@ UI / UX 設計入門
 
 &nbsp;
 
- 1.  設計概念
+1.  設計概念
 ------
 
 * [**單元一** - 設計種類簡介](https://github.com/Barry028/Ui-Design/tree/master/Lesson001%20-%20%E8%A8%AD%E8%A8%88%E7%A8%AE%E9%A1%9E%E7%B0%A1%E4%BB%8B)
