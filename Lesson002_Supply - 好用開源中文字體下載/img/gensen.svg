@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="872" height="240" viewBox="0 0 872 240">
+  <g id="gensen" transform="translate(0 -721)">
+    <g id="组_4854" data-name="组 4854" transform="translate(0 721)">
+      <rect id="矩形_3596" data-name="矩形 3596" width="872" height="240" fill="#313740"/>
+      <rect id="矩形_3598" data-name="矩形 3598" width="8" height="124" transform="translate(36 36)" fill="#48d7dd"/>
+    </g>
+    <text id="源泉圓體" transform="translate(68 798)" fill="#fff" font-size="40" font-family="GenSenRoundedTW-R, GenSenRounded TW"><tspan x="0" y="0">源泉圓體</tspan></text>
+    <text id="特細" transform="translate(516 802)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-EL, GenSenRounded TW"><tspan x="0" y="0">特細</tspan></text>
+    <text id="細體" transform="translate(572 802)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-L, GenSenRounded TW"><tspan x="0" y="0">細體</tspan></text>
+    <text id="常規" transform="translate(628 802)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-R, GenSenRounded TW"><tspan x="0" y="0">常規</tspan></text>
+    <text id="適中" transform="translate(684 802)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-M, GenSenRounded TW"><tspan x="0" y="0">適中</tspan></text>
+    <text id="粗體" transform="translate(740 802)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-B, GenSenRounded TW"><tspan x="0" y="0">粗體</tspan></text>
+    <text id="特粗" transform="translate(796 802)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-H, GenSenRounded TW"><tspan x="0" y="0">特粗</tspan></text>
+    <g id="组_4853" data-name="组 4853" transform="translate(0 905)">
+      <rect id="矩形_3599" data-name="矩形 3599" width="872" height="56" fill="#48d7dd"/>
+      <text id="_6_種字重" data-name="6 種字重" transform="translate(836 36)" fill="#fff" font-size="24" font-family="GenSenRoundedTW-R, GenSenRounded TW"><tspan x="-90.696" y="0">6 種字重</tspan></text>
+    </g>
+    <text id="Gensen-2" data-name="Gensen" transform="translate(68 870)" fill="#fff" font-size="40" font-family="GenSenRoundedTW-R, GenSenRounded TW"><tspan x="0" y="0">Gensen</tspan></text>
+    <text id="EL" transform="translate(526 874)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-EL, GenSenRounded TW"><tspan x="0" y="0">EL</tspan></text>
+    <text id="L" transform="translate(587 874)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-L, GenSenRounded TW"><tspan x="0" y="0">L</tspan></text>
+    <text id="R" transform="translate(642 874)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-R, GenSenRounded TW"><tspan x="0" y="0">R</tspan></text>
+    <text id="M" transform="translate(696 874)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-M, GenSenRounded TW"><tspan x="0" y="0">M</tspan></text>
+    <text id="B" transform="translate(753 874)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-B, GenSenRounded TW"><tspan x="0" y="0">B</tspan></text>
+    <text id="H" transform="translate(809 874)" fill="#fff" font-size="20" font-family="GenSenRoundedTW-H, GenSenRounded TW"><tspan x="0" y="0">H</tspan></text>
+  </g>
+</svg>

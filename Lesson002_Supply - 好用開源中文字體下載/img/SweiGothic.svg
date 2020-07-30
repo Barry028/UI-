@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="872" height="240" viewBox="0 0 872 240">
+  <g id="SweiGothic" transform="translate(0 -721)">
+    <g id="组_4854" data-name="组 4854" transform="translate(0 721)">
+      <rect id="矩形_3596" data-name="矩形 3596" width="872" height="240" fill="#313740"/>
+      <rect id="矩形_3598" data-name="矩形 3598" width="8" height="124" transform="translate(36 36)" fill="#48d7dd"/>
+    </g>
+    <text id="獅尾圓體" transform="translate(68 798)" fill="#fff" font-size="40" font-family="SweiGothicCJKtc-Regular, 獅尾圓體"><tspan x="0" y="0">獅尾圓體</tspan></text>
+    <text id="次細" transform="translate(470 801)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-DemiLight, 獅尾圓體" font-weight="300"><tspan x="-20" y="0">次細</tspan></text>
+    <text id="細體" transform="translate(380 801)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Light, 獅尾圓體" font-weight="300"><tspan x="-20" y="0">細體</tspan></text>
+    <text id="淡體" transform="translate(322 801)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Thin, 獅尾圓體" font-weight="200"><tspan x="-20" y="0">淡體</tspan></text>
+    <text id="常規" transform="translate(573 801)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Regular, 獅尾圓體"><tspan x="-20" y="0">常規</tspan></text>
+    <text id="適中" transform="translate(664 801)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Medium, 獅尾圓體" font-weight="500"><tspan x="-20" y="0">適中</tspan></text>
+    <text id="粗體" transform="translate(741 801)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Bold, 獅尾圓體" font-weight="700"><tspan x="-20" y="0">粗體</tspan></text>
+    <text id="特粗" transform="translate(828 801)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Black, 獅尾圓體" font-weight="800"><tspan x="-40" y="0">特粗</tspan></text>
+    <g id="组_4853" data-name="组 4853" transform="translate(0 905)">
+      <rect id="矩形_3599" data-name="矩形 3599" width="872" height="56" fill="#48d7dd"/>
+      <text id="_7_種字重" data-name="7 種字重" transform="translate(836 36)" fill="#fff" font-size="24" font-family="SweiGothicCJKtc-Regular, 獅尾圓體"><tspan x="-90.696" y="0">7 種字重</tspan></text>
+    </g>
+    <text id="SweiGothic-2" data-name="SweiGothic" transform="translate(68 870)" fill="#fff" font-size="40" font-family="SweiGothicCJKtc-Regular, 獅尾圓體"><tspan x="0" y="0">SweiGothic</tspan></text>
+    <text id="Demi-Light" transform="translate(521 868)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Regular, 獅尾圓體"><tspan x="-103.08" y="0">Demi-Light</tspan></text>
+    <text id="Light" transform="translate(402 868)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Light, 獅尾圓體" font-weight="300"><tspan x="-45.26" y="0">Light</tspan></text>
+    <text id="Thin" transform="translate(341 868)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Thin, 獅尾圓體" font-weight="200"><tspan x="-39.46" y="0">Thin</tspan></text>
+    <text id="Regular" transform="translate(609 868)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Regular, 獅尾圓體"><tspan x="-71.94" y="0">Regular</tspan></text>
+    <text id="Medium" transform="translate(702 868)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Medium, 獅尾圓體" font-weight="500"><tspan x="-77.48" y="0">Medium</tspan></text>
+    <text id="Bold" transform="translate(741 868)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Bold, 獅尾圓體" font-weight="700"><tspan x="-22.66" y="0">Bold</tspan></text>
+    <text id="Black" transform="translate(836 868)" fill="#fff" font-size="20" font-family="SweiGothicCJKtc-Black, 獅尾圓體" font-weight="800"><tspan x="-56.08" y="0">Black</tspan></text>
+  </g>
+</svg>

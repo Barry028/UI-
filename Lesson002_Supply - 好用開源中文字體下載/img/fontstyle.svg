@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="868" height="127" viewBox="0 0 868 127">
+  <defs>
+    <filter id="黑_體" x="44" y="45" width="102" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="明_體" x="271" y="45" width="102" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="圓_體" x="498" y="46" width="102" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="其_他" x="725" y="39" width="102" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-4"/>
+      <feFlood flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="fontstyle" transform="translate(-174 -2051)">
+    <rect id="矩形_3600" data-name="矩形 3600" width="187" height="127" transform="translate(174 2051)" fill="#51b5db"/>
+    <rect id="矩形_3601" data-name="矩形 3601" width="187" height="127" transform="translate(628 2051)" fill="#48d7dd"/>
+    <rect id="矩形_3603" data-name="矩形 3603" width="187" height="127" transform="translate(855 2051)" fill="#febd17"/>
+    <rect id="矩形_3602" data-name="矩形 3602" width="187" height="127" transform="translate(401 2051)" fill="#ff6baa"/>
+    <g transform="matrix(1, 0, 0, 1, 174, 2051)" filter="url(#黑_體)">
+      <text id="黑_體-2" data-name="黑　體" transform="translate(94 75)" fill="#fff" font-size="32" font-family="GenSekiGothicTW-R, GenSekiGothic TW"><tspan x="-48" y="0">黑　體</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 174, 2051)" filter="url(#明_體)">
+      <text id="明_體-2" data-name="明　體" transform="translate(321 75)" fill="#fff" font-size="32" font-family="GenRyuMinTW-R, GenRyuMin TW"><tspan x="-48" y="0">明　體</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 174, 2051)" filter="url(#圓_體)">
+      <text id="圓_體-2" data-name="圓　體" transform="translate(548 75)" fill="#fff" font-size="32" font-family="FakePearl-Regular, FakePearl"><tspan x="-48" y="0">圓　體</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 174, 2051)" filter="url(#其_他)">
+      <text id="其_他-2" data-name="其　他" transform="translate(775 75)" fill="#fff" font-size="32" font-family="JasonWriting1"><tspan x="-48" y="0">其</tspan><tspan y="0" font-family="PingFangSC-Regular, PingFang SC">　</tspan><tspan y="0">他</tspan></text>
+    </g>
+  </g>
+</svg>

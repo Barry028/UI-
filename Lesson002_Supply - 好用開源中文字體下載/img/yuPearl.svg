@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="872" height="240" viewBox="0 0 872 240">
+  <g id="yuPearl" transform="translate(0 -721)">
+    <rect id="矩形_3596" data-name="矩形 3596" width="872" height="240" transform="translate(0 721)" fill="#313740"/>
+    <text id="俊羽圓體" transform="translate(68 798)" fill="#fff" font-size="40" font-family="YuPearl-Regular, YuPearl"><tspan x="0" y="0">俊羽圓體</tspan></text>
+    <text id="特細" transform="translate(416 801)" fill="#fff" font-size="20" font-family="YuPearl-ExtraLight, YuPearl" font-weight="200"><tspan x="0" y="0">特細</tspan></text>
+    <text id="細體" transform="translate(506 801)" fill="#fff" font-size="20" font-family="YuPearl-Light, YuPearl" font-weight="300"><tspan x="0" y="0">細體</tspan></text>
+    <text id="常規" transform="translate(583 801)" fill="#fff" font-size="20" font-family="YuPearl-Regular, YuPearl"><tspan x="0" y="0">常規</tspan></text>
+    <text id="適中" transform="translate(674 801)" fill="#fff" font-size="20" font-family="YuPearl-Medium, YuPearl" font-weight="500"><tspan x="0" y="0">適中</tspan></text>
+    <text id="次粗" transform="translate(772 801)" fill="#fff" font-size="20" font-family="YuPearl-SemiBold, YuPearl" font-weight="600"><tspan x="0" y="0">次粗</tspan></text>
+    <g id="组_4853" data-name="组 4853" transform="translate(0 905)">
+      <rect id="矩形_3599" data-name="矩形 3599" width="872" height="56" fill="#48d7dd"/>
+      <text id="_5_種字重" data-name="5 種字重" transform="translate(836 36)" fill="#fff" font-size="24" font-family="YuPearl-Regular, YuPearl"><tspan x="-93.75" y="0">5 種字重</tspan></text>
+    </g>
+    <text id="YuPearl-2" data-name="YuPearl" transform="translate(68 870)" fill="#fff" font-size="40" font-family="YuPearl-Regular, YuPearl"><tspan x="0" y="0">YuPearl</tspan></text>
+    <rect id="矩形_3598" data-name="矩形 3598" width="8" height="124" transform="translate(36 757)" fill="#48d7dd"/>
+    <text id="ExtraLight" transform="translate(390 871)" fill="#fff" font-size="20" font-family="YuPearl-ExtraLight, YuPearl" font-weight="200"><tspan x="0" y="0">ExtraLight</tspan></text>
+    <text id="Light" transform="translate(502 871)" fill="#fff" font-size="20" font-family="YuPearl-Light, YuPearl" font-weight="300"><tspan x="0" y="0">Light</tspan></text>
+    <text id="Regular" transform="translate(566 871)" fill="#fff" font-size="20" font-family="YuPearl-Regular, YuPearl"><tspan x="0" y="0">Regular</tspan></text>
+    <text id="Medium" transform="translate(655 873)" fill="#fff" font-size="20" font-family="YuPearl-Medium, YuPearl" font-weight="500"><tspan x="0" y="0">Medium</tspan></text>
+    <text id="SemiBold" transform="translate(748 873)" fill="#fff" font-size="20" font-family="YuPearl-SemiBold, YuPearl" font-weight="600"><tspan x="0" y="0">SemiBold</tspan></text>
+  </g>
+</svg>
