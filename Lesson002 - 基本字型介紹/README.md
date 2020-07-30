@@ -1,15 +1,18 @@
-# 介面設計 - 系統字體介紹
+介面設計 - 系統字體介紹
+======
 
 &nbsp;
 
-## 字體排版：
-![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/001.png)
+字體排版：
+------
+![image](img/001.png)
 
 字體一直是設計師排版的關鍵之一，但由於網頁設計受到技術、法規、網路影響，在網頁上能夠使用的字體非常有限，本篇文章其實並非告訴大家怎麼使用字體才會「美」，而是了解字體運用上的「限制」，避免設計出執行上有困難或是效能極差的網頁。
 
 &nbsp;
 
-## 字體分類：
+字體分類：
+------
 字體因為外觀的關係而有不同的名稱，如：黑體、明體、襯線、無襯線等字體，以上或許大家都有聽過名稱，但不清楚外型（如果熟悉可以跳下一段），這裡就來解釋這些字體的分類及常見用途吧。
 
 ### 1. Serif 襯線字體
@@ -19,16 +22,16 @@
 
 >> -- 文章參考 -- [Google fonts 的字體（serif 篇）](https://blog.justfont.com/2014/06/google-fonts-1/)
 
-![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/002.png)
+![image](img/002.png)
 
-### 2. Sans-serif 無襯線字體 ###
+### 2. Sans-serif 無襯線字體
    * 外觀：無論中英文皆沒有任何裝飾線。
    * 運用：較無個性，帶給人科技、現代、正式的感覺，使用上非常廣泛。
 &nbsp;
 
 >> -- 文章參考 -- [Google fonts 的字體（sans-serif 篇）](https://blog.justfont.com/2014/06/google-fonts-2/)
 
-![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/003.png)
+![image](img/003.png)
 
 中文部分則是稱為黑體及明體，外觀上明體接近於「歐文襯線字體」；黑體則接近於「歐文無襯線字體」。這兩者有許多文件會視為同類別（如：黑體 == 歐文無襯線字體），但也有許多專業設計師會視為不同類別，在此特別說明。
 
@@ -40,7 +43,7 @@
 
 >> -- 文章參考 -- [黑體造型重點](https://blog.justfont.com/2018/08/jf-typeclass-intro-3/)
 
-![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/008.png)
+![image](img/008.png)
 
 ### 4. 中文 - 明體
    * 外觀：點如垂露、撇似刀、勾似鵝頭、捺如掃、口字上下多一段、橫尾有山、彎帶角。
@@ -51,20 +54,22 @@
 
 >> -- 文章參考 -- [明體造型重點](https://blog.justfont.com/2018/09/jf-typeclass-intro-4/)
 
-![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/009.png)
+![image](img/009.png)
 
 而系統上也都有包含預設襯線與無襯線所預設的中英文字體，除了上述兩種外系統內還有 Cursive(草書)、Fantasy(藝術字)、Monospace(等寬字)，但這些字體就並非有完全對應的中英文，實作上還是以襯線與無襯線兩種為主。
 
 &nbsp;
 
-## 避免用假粗體、假斜體：
+避免用假粗體、假斜體：
+------
 在 office 軟體的設定中，i, B 兩個按鈕可以把任意字體變成斜體或粗體。如果一套字體裡真的有粗體、斜體那倒不會有問題（例如微軟正黑體有粗體）；但是如果缺乏粗體、斜體，就會用程式演算出來一個替代的版本。這其實不是一個字體最天然的設計。
 
-![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/007.png)
+![image](img/007.png)
 
 &nbsp;
 
-## 必要熟悉的系統字體：
+必要熟悉的系統字體：
+------
 目前常見的系統包含 Windows、MacOS、iOS、Android、Linux...等，每一種都還包含了中英文、襯線、無襯線等等（本篇以無襯線為主），而這些系統字體大不相同，更不會有自定的字體出現。
 
 ### 1. Windows
@@ -85,11 +90,11 @@
 Android 雖然有提供系統字體，但各家廠商製作手機時依然可以調整預設的系統字體，在此僅是提供主要的預設字體。
 > 英文：Roboto ，這一款字體運用上也是非常靈活，擁有 6 種字體且均另有斜體（italic，共 12 種），根據 Google Fonts 的統計，這個字體已經運用在 22,000,000 個網站上。
 
-![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/006.png)
+![image](img/006.png)
 
 > 中文字體：資料上顯示有兩款 Droidsansfallback 及 Noto Sans，Noto Sans 是 Google 與 Adobe 公司共同研發的開源字體，包含 7 種常用字重並且幾乎包含所有中文字，號稱最不會缺字的字體庫，目前是設計師必備的中文字體。
 
-![image](https://github.com/Barry028/UI-Design/blob/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/005.png)
+![image](img/005.png)
 
 另外提到，Noto Sans 是 Google 及 Adobe 合作的字體，在 Adobe 的服務中稱這套字體為「思源黑體」，在繁體中文的國家中，Noto Sans 基本上也是依據台灣官方規定的筆畫規則，是一款非常優秀的字體。
 
@@ -104,24 +109,36 @@ Android 雖然有提供系統字體，但各家廠商製作手機時依然可以
 
 &nbsp;
 
-## 外部資源參考：
--- 網路字體商 --
+外部資源參考：
+------
+
+--- 常見網路字體商 ---
+
 * [JUST FONT 就是字！](https://justfont.com/)
+
 * [GOOGLE FONTS](https://fonts.google.com/)
+
 * [文鼎科技](http://www.arphic.com.tw)
+
 * [華康字型](https://www.dynacw.com.tw/)
+
 * [ADOBE TYPEKIT](https://fonts.adobe.com/typekit)
 
--- 部落格 --
+--- 部落格 ---
+
 * [JUST FONT 部落格](https://blog.justfont.com/)
 
--- Facebook 社群 --
+--- Facebook 社群 ---
+
 * [字戀](https://www.facebook.com/lovefonts/)
+
 * [字嗨過頭：字取其辱戀](https://www.facebook.com/groups/annoyfonts/)
+
 > 字嗨社團會有很多字體高手在裡面分享文章及交流，很多人在路上看到很棒的字體會上去詢問是什麼字型之類的，建議加入！
 
--- 下章節介紹 --
-* [ADOBE XD 入門基礎]()
+--- 下章節介紹 ---
+
+* [ADOBE XD 入門基礎](https://github.com/Barry028/Ui-Design/tree/master/Lesson003%20-%20UI%E8%A8%AD%E8%A8%88%E8%BB%9F%E9%AB%94%20%5BXD%5D)
 
 
 

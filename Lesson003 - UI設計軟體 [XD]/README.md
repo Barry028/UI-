@@ -1,33 +1,55 @@
 ----- 請在上方下載課程範例檔及簡報 -----
-# ADOBE XD 介紹
-## 範例檔內含：
-1. ADOBE XD 介紹 PDF 
-2. ADOBE XD 製作的原始簡報檔案 (可以下載參考此簡報是如何設計的)
+ADOBE XD 介紹
+======
 
 &nbsp;
 
-## 課程概要：
+範例檔內含：
+------
+
+1. [ADOBE XD 介紹 PDF](XD介紹.pdf)
+
+2. [ADOBE XD 製作的原始簡報檔案](XD介紹.xd)
+
+
+&nbsp;
+
+課程概要：
+------
+
 1. 常見的 UI 設計軟體
-2. 操作工具介紹
-3. 基本常用操作
-4. 常用 快捷鍵
+
+2. XD 操作工具介紹
+
+3. XD 基本常用操作
+
+4. XD 常用快捷鍵
 
 &nbsp;
 
-## 重點回顧：
+重點回顧：
+------
 * 目前常見 UI設計軟體為：
+
 1. Sketch   -  https://www.sketch.com/
+
 2. Adobe XD -  https://www.adobe.com/tw/products/xd.html
+
 3. Figma    -  https://www.figma.com/
 
-* 元件庫、圖層、外掛
-* 畫板設定 (網格系統)
-* 快捷鍵的認識 
+&nbsp;
+
+* XD 元件庫、圖層、外掛
+
+* XD 畫板設定 (網格系統)
+
+* XD 快捷鍵的認識 
+
+&nbsp;
 
 <img src="img/keyboard-1.jpg" style="width: 60%">
 
 ### 第一層「單鍵工具」
-
 #### 「V」選取
 基本上是操作 Adobe Xd 的一個起手式，可以避免手殘按成其他繪製狀態，並可隨時點選我要的物件。
 
@@ -60,7 +82,6 @@
 <img src="img/keyboard-2.jpg" style="width: 60%">
 
 ### 第二層「雙鍵動作」
-
 #### Command (Ctrl) + "~"
 可快速切換不同 .xd 檔案，在多工操作情況下省時省力。
 
@@ -126,9 +147,7 @@
 &nbsp;
 
 <img src="img/keyboard-3.jpg" style="width: 60%">
-
 ### 第三層「三鍵組合技」
-
 #### Command (Ctrl) + Shift + T
 將目前文字樣式儲存進 Assets。
 
@@ -149,13 +168,19 @@
 
 &nbsp;
 
-## 外部資源參考：
--- UI KIT --
-* XDguru：https://www.xdguru.com/adobe-xd-ui-kits/
-* Sketchappsources：https://www.sketchappsources.com/category/mobile.html
+外部資源參考：
+------
 
--- ICON --
-* Flaticon：https://www.flaticon.com/
+--- UI KIT --- 
 
--- 設計素材 --
-* Freepik：https://www.freepik.com/home
+* [XDguru](https://www.xdguru.com/adobe-xd-ui-kits/)
+
+* [Sketchappsources](https://www.sketchappsources.com/category/mobile.html)
+
+--- ICON --- 
+
+* [Flaticon ICON網站](https://www.flaticon.com/)
+
+--- 設計素材 --- 
+
+* [Freepik 素材網站](https://www.freepik.com/home)
