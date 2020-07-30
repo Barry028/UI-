@@ -60,6 +60,8 @@
 
 ### 5. 源石黑體
 
+![image](img/genseki.svg)
+
 「源石黑體」是基於思源黑體的開放原始碼中文字型。
 
 - [字體網站](https://github.com/ButTaiwan/genseki-font)
@@ -67,6 +69,8 @@
 &nbsp;
 
 ### 6. 源樣黑體
+
+![image](img/genyog.svg)
 
 「源樣黑體」是基於思源黑體的開放原始碼中文字型。<br>
 採用思源黑體韓文（KR）版本為主的字符，配合繁體中文慣用的置中標點，可排版傳統印刷體風格的文件。
@@ -77,6 +81,8 @@
 
 ### 7. 源雲明體
 
+![image](img/genwan.svg)
+
 「源雲明體」是基於思源宋體的而改造的開放原始碼中文字型。
 
 - [字體網站](https://github.com/ButTaiwan/genwan-font)
@@ -84,6 +90,8 @@
 &nbsp;
 
 ### 8. 源流明體
+
+![image](img/genryu.svg)
 
 「源流明體」是基於思源宋體的而改造的開放原始碼中文字型。
 
@@ -93,6 +101,8 @@
 
 ### 9. 源樣明體
 
+![image](img/genyo.svg)
+
 「源樣明體」是基於思源宋體的開放原始碼中文字型。 採用思源宋體韓文（KR）版本的字符，配合繁體中文慣用的置中標點，可排版傳統印刷體風格的文件。
 
 - [字體網站](https://github.com/ButTaiwan/genyo-font)
@@ -100,6 +110,8 @@
 &nbsp;
 
 ### 10. 思源柔黑體 (源柔ゴシック)
+
+![image](img/genjyuu.svg)
 
 Genju Gothic（Genju Gothic）是一種免費的OpenType字體，主要有分成三種不同的圓度以及每種都有７種字重，另外還有 Monospace (等寬字) 版本。
 
@@ -109,6 +121,8 @@ Genju Gothic（Genju Gothic）是一種免費的OpenType字體，主要有分成
 
 ### 11. 獅尾圓體
 
+![image](img/SweiGothic.svg)
+
 獅尾圓體基於思源黑體的拔腳和加圓改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文。
 
 - [字體網站](https://github.com/max32002/swei-gothic)
@@ -116,6 +130,8 @@ Genju Gothic（Genju Gothic）是一種免費的OpenType字體，主要有分成
 &nbsp;
 
 ### 12. 俊羽圓體
+
+![image](img/YuPearl.svg)
 
 「俊羽圓體」是基於jf open 粉圓的開放原始碼中文字型。原本的構想是要挑戰把粉圓改成「羽逸体」，發現工程有點浩大，目前是半成品，聊勝於無，大家可以試用看看。也歡迎勇者接續修改，可以把修改好的寄給我，或直接在再開出新的字型名稱。
 <br>
@@ -127,6 +143,8 @@ Genju Gothic（Genju Gothic）是一種免費的OpenType字體，主要有分成
 
 ### 13. 內海字體
 
+![image](img/naikai.svg)
+
 「內海字體」是基於瀨戶字體的開放原始碼中文字型，目前字型內文字和符號字數在：34,657個。與原作者的版本，主要差異是另外新增4,137中文字，調整為5個字重，增加一些符號。
 
 - [字體網站](https://github.com/max32002/naikaifont)
@@ -134,6 +152,8 @@ Genju Gothic（Genju Gothic）是一種免費的OpenType字體，主要有分成
 &nbsp;
 
 ### 14. 清松手寫體
+
+![image](img/jasonhandwriting.svg)
 
 「清松手寫體」是游清松在稿紙上用原子筆手寫，透過「守寫字」網站產生出初稿字型檔，再透過字型軟體後製加工而成的手寫字型。
 
