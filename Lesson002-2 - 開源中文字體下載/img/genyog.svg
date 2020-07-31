@@ -1,9 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1148" height="240" viewBox="0 0 1148 240">
   <g id="genyog" transform="translate(0 -721)">
-    <g id="组_4854" data-name="组 4854" transform="translate(0 721)">
-      <rect id="矩形_3596" data-name="矩形 3596" width="872" height="240" fill="#313740"/>
-      <rect id="矩形_3598" data-name="矩形 3598" width="8" height="124" transform="translate(36 36)" fill="#51b5db"/>
-    </g>
+    <rect id="矩形_3596" data-name="矩形 3596" width="1148" height="240" transform="translate(0 721)" fill="#313740"/>
+    <rect id="矩形_3598" data-name="矩形 3598" width="8" height="124" transform="translate(36 757)" fill="#51b5db"/>
     <path id="路径_6983" data-name="路径 6983" d="M0,0H120V240H0Z" transform="translate(1028 721)" fill="#313740"/>
     <path id="路径_6984" data-name="路径 6984" d="M0,0H120V240H0Z" transform="translate(908 721)" fill="#313740"/>
     <path id="路径_6985" data-name="路径 6985" d="M0,0H120V240H0Z" transform="translate(788 721)" fill="#313740"/>
