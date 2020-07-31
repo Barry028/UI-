@@ -132,7 +132,7 @@ Genju Gothic（Genju Gothic）是一種免費的OpenType字體，主要有分成
 
 ### 12. 俊羽圓體
 
-![image](img/YuPearl.svg)
+![image](img/yuPearl.svg)
 
 「俊羽圓體」是基於jf open 粉圓的開放原始碼中文字型。原本的構想是要挑戰把粉圓改成「羽逸体」，發現工程有點浩大，目前是半成品，聊勝於無，大家可以試用看看。也歡迎勇者接續修改，可以把修改好的寄給我，或直接在再開出新的字型名稱。
 <br>
@@ -162,6 +162,15 @@ Genju Gothic（Genju Gothic）是一種免費的OpenType字體，主要有分成
 
 &nbsp;
 
+### 14. 獅尾四季春
+
+![image](img/jasonhandwriting.svg)
+
+「獅尾四季春」字體基於思源宋體的拔三角形改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文。
+
+- [字體網站](https://github.com/max32002/swei-spring)
+
+&nbsp;
 
 外部資源參考：
 ------
