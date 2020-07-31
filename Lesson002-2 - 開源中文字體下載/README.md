@@ -162,9 +162,9 @@ Genju Gothic（Genju Gothic）是一種免費的OpenType字體，主要有分成
 
 &nbsp;
 
-### 14. 獅尾四季春
+### 15. 獅尾四季春
 
-![image](img/jasonhandwriting.svg)
+![image](img/SweiSpring.svg)
 
 「獅尾四季春」字體基於思源宋體的拔三角形改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文。
 
