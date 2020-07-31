@@ -138,7 +138,7 @@ Android 雖然有提供系統字體，但各家廠商製作手機時依然可以
 
 --- 下章節介紹 ---
 
-* [開源中文字體下載](https://github.com/Barry028/Ui-Design/tree/master/Lesson002_S%20-%20%E9%96%8B%E6%BA%90%E4%B8%AD%E6%96%87%E5%AD%97%E9%AB%94%E4%B8%8B%E8%BC%89)
+* [開源中文字體下載](https://github.com/Barry028/Ui-Design/tree/master/Lesson002 (2)%20-%20%E9%96%8B%E6%BA%90%E4%B8%AD%E6%96%87%E5%AD%97%E9%AB%94%E4%B8%8B%E8%BC%89)
 
 
 

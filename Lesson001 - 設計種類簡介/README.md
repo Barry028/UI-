@@ -70,4 +70,4 @@ IA、UI、UX、VD、IxD 是什麼：
 
 --- 下章節介紹 ---
 
-* [基本字型介紹](https://github.com/Barry028/Ui-Design/tree/master/Lesson002%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9)
+* [基本字型介紹](https://github.com/Barry028/Ui-Design/tree/master/Lesson002 (1)%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9)
