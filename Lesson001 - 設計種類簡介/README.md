@@ -21,6 +21,7 @@ IA、UI、UX、VD、IxD 是什麼：
 > 包括網站、App的結構安排以及內容是如何組織的，目的是幫助用戶快速找到信息並且完成操作。換句話說，資訊架構就是組織好網站或者App的結構，讓用戶明白目前所在的位置，知道所找的資訊在哪裡。資訊架構師的工作包括設計網站地圖、層次結構、分類、導航和元數據。當內容規劃師開始將內容分開並歸類的時候，這就是資訊架構。
 
 ![image](https://github.com/Barry028/Ui-Design/blob/master/Lesson002%20(1)%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/draw.png)
+
 --- 跨平台流程圖製作工具 Draw.io(代替Visio) ---
 * [Draw.io](https://www.draw.io/)
 * [教學及介紹](https://ithelp.ithome.com.tw/articles/10210293?sc=rss.qu)
