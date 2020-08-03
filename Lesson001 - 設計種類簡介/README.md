@@ -23,7 +23,7 @@ IA、UI、UX、VD、IxD 是什麼：
 --- 跨平台流程圖製作工具 Draw.io(代替Visio) ---
 
 
-![image]((https://github.com/Barry028/Ui-Design/blob/master/Lesson002%20(1)%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/draw.png
+![image](https://github.com/Barry028/Ui-Design/blob/master/Lesson002%20(1)%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/draw.png
 
 * [Draw.io](https://www.draw.io/)
 * [教學及介紹](https://ithelp.ithome.com.tw/articles/10210293?sc=rss.qu)
