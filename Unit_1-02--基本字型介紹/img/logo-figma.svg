@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
   <g id="logo-figma" transform="translate(-600 -1730)">
     <rect id="矩形_3561" data-name="矩形 3561" width="160" height="160" transform="translate(600 1730)" fill="#313740" opacity="0"/>
-    <g id="figma-seeklogo.com" transform="translate(629.367 1734.051)">
-      <path id="path0_fill" d="M25.316,250.633a25.326,25.326,0,0,0,25.316-25.316V200H25.316a25.316,25.316,0,0,0,0,50.633Z" transform="translate(0 -98.734)" fill="#0acf83"/>
-      <path id="path1_fill" d="M0,125.316A25.326,25.326,0,0,1,25.316,100H50.633v50.633H25.316A25.326,25.326,0,0,1,0,125.316Z" transform="translate(0 -49.367)" fill="#a259ff"/>
-      <path id="path1_fill_1_" d="M0,25.316A25.326,25.326,0,0,1,25.316,0H50.633V50.633H25.316A25.326,25.326,0,0,1,0,25.316Z" fill="#f24e1e"/>
-      <path id="path2_fill" d="M100,0h25.316a25.316,25.316,0,1,1,0,50.633H100Z" transform="translate(-49.367)" fill="#ff7262"/>
-      <path id="path3_fill" d="M150.633,125.316A25.316,25.316,0,1,1,125.316,100,25.326,25.326,0,0,1,150.633,125.316Z" transform="translate(-49.367 -49.367)" fill="#1abcfe"/>
+    <g id="figma-seeklogo.com" transform="translate(630 1735)">
+      <path id="path0_fill" d="M25,250a25.009,25.009,0,0,0,25-25V200H25a25,25,0,0,0,0,50Z" transform="translate(0 -100)" fill="#0acf83"/>
+      <path id="path1_fill" d="M0,125a25.009,25.009,0,0,1,25-25H50v50H25A25.009,25.009,0,0,1,0,125Z" transform="translate(0 -50)" fill="#a259ff"/>
+      <path id="path1_fill_1_" d="M0,25A25.009,25.009,0,0,1,25,0H50V50H25A25.009,25.009,0,0,1,0,25Z" transform="translate(0 0)" fill="#f24e1e"/>
+      <path id="path2_fill" d="M100,0h25a25,25,0,0,1,0,50H100Z" transform="translate(-50 0)" fill="#ff7262"/>
+      <path id="path3_fill" d="M150,125a25,25,0,1,1-25-25A25.009,25.009,0,0,1,150,125Z" transform="translate(-50 -50)" fill="#1abcfe"/>
     </g>
   </g>
 </svg>
