@@ -1,5 +1,4 @@
-
- <style>
+<style>
     .markdown-body table th,
     .markdown-body table td,
     .markdown-body table tr{
@@ -14,7 +13,8 @@
     .markdown-body table tr td:last-of-type {
         border-right: none;
     }
-  </style>
+</style>
+
 ----- 請在上方下載檔案 -----
 
 ### 範例檔內含：
