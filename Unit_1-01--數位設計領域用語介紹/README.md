@@ -19,7 +19,7 @@
 
 ### 1.  資訊架構 Information Architecture (IA)
 
-[<img width="480" src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-drawio.png" alt="資訊架構 Information Architecture">](#!)
+[<img width="480" src="https://github.com/Barry028/Ui-Design/blob/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/ima-ia.png" alt="資訊架構 Information Architecture">](#!)
 
 包括網站、App的結構安排以及內容是如何組織的，目的是幫助用戶快速找到信息並且完成操作。
 
@@ -36,6 +36,9 @@
 &nbsp;
 
 ### 2.  介面設計 User Interface Design (UI)
+
+[<img width="480" src="https://github.com/Barry028/Ui-Design/blob/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/ima-ui.png" alt="資訊架構 Information Architecture">](#!)
+
 介面設計就是如何選取合適的界面元素，例如文字、按鈕、文本框、顏色等。
 
 做這些目的是就是讓用戶在界面上完成一項操作的時候，覺得易懂、易用。盡可能的讓用戶與介面的交互簡單高效。
@@ -50,6 +53,9 @@
 &nbsp;
 
 ### 3.  使用者經驗設計 User Experience Design (UX)
+
+[<img width="480" src="https://github.com/Barry028/Ui-Design/blob/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/ima-ux.png" alt="資訊架構 Information Architecture">](#!)
+
 使用者經驗設計（也可叫做UXD、UED、XD)，是指通過提高產品的可用性、易用性、以及人與產品交互過程中的愉悅程度，從而來提高用戶滿意度的過程。
 
 使用者經驗設計包括傳統的人機交互（HCI），並且延伸到解決所有與用戶感受相關的問題。
