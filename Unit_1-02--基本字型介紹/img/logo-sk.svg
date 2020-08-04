@@ -1,16 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
-  <g id="logo-sk" transform="translate(147 -1685)">
-    <rect id="矩形_3559" data-name="矩形 3559" width="160" height="160" transform="translate(-147 1685)" fill="#313740" opacity="0"/>
-    <g id="sketch-seeklogo.com" transform="translate(-137 1704)">
-      <path id="路径_6790" data-name="路径 6790" d="M70,0,30.546,4.172,0,45.176,70,126.69l70-81.514-30.545-41Z" transform="translate(0 0)" fill="#fdb300"/>
-      <path id="路径_6791" data-name="路径 6791" d="M0,82.608l70,81.514L28.353,82.608Z" transform="translate(0 -37.432)" fill="#eb6c00"/>
-      <path id="路径_6792" data-name="路径 6792" d="M169.646,82.608,128,164.122l70-81.514Z" transform="translate(-58 -37.432)" fill="#eb6c00"/>
-      <path id="路径_6793" data-name="路径 6793" d="M51.846,82.608l41.647,81.514L135.14,82.608Z" transform="translate(-23.493 -37.432)" fill="#fdad00"/>
-      <path id="路径_6794" data-name="路径 6794" d="M54.038,4.172l-2.192,41L93.493,0Z" transform="translate(-23.493 0)" fill="#fdd231"/>
-      <path id="路径_6795" data-name="路径 6795" d="M169.646,45.176l-2.192-41L128,0Z" transform="translate(-58 0)" fill="#fdd231"/>
-      <path id="路径_6796" data-name="路径 6796" d="M202.338,48.632H230.69l-30.545-41Z" transform="translate(-90.691 -3.456)" fill="#fdad00"/>
-      <path id="路径_6797" data-name="路径 6797" d="M0,48.632H28.353l2.192-41Z" transform="translate(0 -3.456)" fill="#fdad00"/>
-      <path id="路径_6798" data-name="路径 6798" d="M93.493,0,51.846,45.176h83.293Z" transform="translate(-23.493 0)" fill="#feeeb7"/>
-    </g>
+<svg id="logo-sk" xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <rect id="矩形_3559" data-name="矩形 3559" width="90" height="90" fill="#313740" opacity="0"/>
+  <g id="sketch-seeklogo.com" transform="translate(5.625 10.688)">
+    <path id="路径_6790" data-name="路径 6790" d="M39.375,0,17.182,2.347,0,25.412,39.375,71.263,78.75,25.412,61.568,2.347Z" transform="translate(0 0)" fill="#fdb300"/>
+    <path id="路径_6791" data-name="路径 6791" d="M0,82.608l39.375,45.852L15.949,82.608Z" transform="translate(0 -57.196)" fill="#eb6c00"/>
+    <path id="路径_6792" data-name="路径 6792" d="M151.426,82.608,128,128.459l39.375-45.852Z" transform="translate(-88.625 -57.196)" fill="#eb6c00"/>
+    <path id="路径_6793" data-name="路径 6793" d="M51.846,82.608l23.426,45.852L98.7,82.608Z" transform="translate(-35.897 -57.196)" fill="#fdad00"/>
+    <path id="路径_6794" data-name="路径 6794" d="M53.079,2.347,51.846,25.412,75.272,0Z" transform="translate(-35.897 0)" fill="#fdd231"/>
+    <path id="路径_6795" data-name="路径 6795" d="M151.426,25.412,150.193,2.347,128,0Z" transform="translate(-88.625 0)" fill="#fdd231"/>
+    <path id="路径_6796" data-name="路径 6796" d="M201.378,30.693h15.948L200.145,7.628Z" transform="translate(-138.577 -5.281)" fill="#fdad00"/>
+    <path id="路径_6797" data-name="路径 6797" d="M0,30.693H15.949L17.182,7.628Z" transform="translate(0 -5.281)" fill="#fdad00"/>
+    <path id="路径_6798" data-name="路径 6798" d="M75.272,0,51.846,25.412H98.7Z" transform="translate(-35.897 0)" fill="#feeeb7"/>
   </g>
 </svg>
