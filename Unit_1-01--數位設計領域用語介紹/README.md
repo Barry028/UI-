@@ -66,6 +66,9 @@
 &nbsp;
 
 ### 4.  視覺設計 Visual  Design (VD)
+
+[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-vd.png" alt="視覺設計 Visual  Design (VD)">](#!)
+
 視覺設計指的是針對眼睛官能的主觀形式的表現手段和結果。與視覺傳達設計的異同，視覺傳達設計屬於視覺設計的一部分，主要針對被傳達對象即觀眾而有所表現，缺少對設計者自身視覺需求因素的訴求。
 
 視覺傳達既傳達給視覺觀眾也傳達給設計者本人，因此深入的視覺傳達研究已經關注到視覺的方方面面感受，稱其為視覺設計更加貼切。
@@ -75,6 +78,8 @@
 &nbsp;
 
 ### 5.  交互設計 Interaction Design (IxD)
+[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ixd.png" alt="交互設計 Interaction Design (IxD)">](#!)
+
 它定義了兩個或多個互動的個體之間交流的結構和行為。
 
 交互設計師致力於在人與產品/服務之間建立一種有效的關係，包括電腦、移動設備、應用等等。
