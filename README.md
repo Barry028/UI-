@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/version-v1.0.0-brightgreen">](#!)
+[<img src="https://img.shields.io/badge/Ｖersion-v1.0.0-brightgreen?style=for-the-badge">](#!)     [<img src="https://img.shields.io/badge/Author-BarrY-green?style=for-the-badge">](#!)
 
 ![image](Lesson002%20(1)%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ui.svg)
 
