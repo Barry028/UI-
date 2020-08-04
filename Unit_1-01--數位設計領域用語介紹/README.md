@@ -59,22 +59,10 @@
 
 > ---  目前比較常見的 UI/UX 設計軟體  ---
 >
-<table border="0">
-  <tr>
-    <td>[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-xd.svg" alt="XD">](#!)</td>
-    <td>[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-sk.svg" alt="SKETCH">](#!)</td>
-    <td>[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-figma.svg" alt="FIGMA">](#!)</td>
-    <td><img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-invision.svg" alt="INVISION">](#!)</td>
-    <td>[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-protopie.svg" alt="PROTOPIE">](#!)</td>
-  </tr>
-  <tr>
-    <td>[ADOBE XD](https://www.adobe.com/tw/products/xd.html)</td>
-    <td>[SKETCH](https://www.sketch.com/)</td>
-    <td>[FIGMA](https://www.figma.com/)</td>
-    <td>[INVISION](https://www.invisionapp.com/) </td>
-    <td>[PROTOPIE](http://pxlme.me/veInML62)</td> 
-  </tr>
-</table>
+> | [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-xd.svg" alt="XD">](#!) | [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-sk.svg" alt="SKETCH">](#!) | [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-figma.svg" alt="FIGMA">](#!) | [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-invision.svg" alt="INVISION">](#!) | [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-protopie.svg" alt="PROTOPIE">](#!)|
+> | :---: | :---: | :---: | :---: | :---: |
+> | [ADOBE XD](https://www.adobe.com/tw/products/xd.html) | [SKETCH](https://www.sketch.com/) | [FIGMA](https://www.figma.com/) | [INVISION](https://www.invisionapp.com/) | [PROTOPIE](http://pxlme.me/veInML62)|
+
 &nbsp;
 
 ### 3. 使用者經驗設計 User Experience Design (UX)
