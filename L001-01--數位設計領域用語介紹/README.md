@@ -1,6 +1,6 @@
 ----- 請在上方下載檔案 -----
 
-網⾴設計 & 介⾯設計？
+IA、UI、UX、VD、IxD 數位設計領域用語介紹
 ======
 
 &nbsp;
@@ -8,13 +8,13 @@
 範例檔內含：
 ------
 
-1. [介面設計簡報PDF](Getting Started.pdf)
+1. [數位設計領域用語-簡報 (PDF)](Getting Started.pdf)
 
-2. [ADOBE XD 製作的原始簡報檔案 (可以下載參考此簡報是如何設計的)](Getting Started.xd)
+2. [數位設計領域用語-簡報 (XD)](Getting Started.xd)
 
 &nbsp;
 
-IA、UI、UX、VD、IxD 是什麼：
+IA、UI、UX、VD、IxD 是什麼？
 ------
 
 ### 1. 資訊架構 Information Architecture (IA)
@@ -22,7 +22,8 @@ IA、UI、UX、VD、IxD 是什麼：
 
 ![image](https://github.com/Barry028/Ui-Design/blob/master/Lesson002%20(1)%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/draw.png)
 
---- 跨平台流程圖製作工具 Draw.io(代替Visio) ---
+` 跨平台流程圖製作工具 Draw.io (代替Visio) `
+
 * [Draw.io](https://www.draw.io/)
 * [教學及介紹](https://ithelp.ithome.com.tw/articles/10210293?sc=rss.qu)
 
@@ -31,7 +32,7 @@ IA、UI、UX、VD、IxD 是什麼：
 ### 2. 介面設計 User Interface Design (UI)
 > 介面設計就是如何選取合適的界面元素，例如文字、按鈕、文本框、顏色等。做這些目的是就是讓用戶在界面上完成一項操作的時候， 覺得易懂、易用。盡可能的讓用戶與介面的交互簡單高效。
 
---- UI設計軟體推薦 ---
+`  UI設計軟體推薦 `
 
 * [Adobe Xd](https://www.adobe.com/tw/products/xd.html)
 * [Sketch](https://www.sketch.com/)
