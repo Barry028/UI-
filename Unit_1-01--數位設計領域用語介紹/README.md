@@ -1,4 +1,20 @@
 
+ <style>
+    .markdown-body table th,
+    .markdown-body table td,
+    .markdown-body table tr{
+        border-top: none;
+        border-bottom: none;
+    }
+    .markdown-body table tr th:first-of-type ,
+    .markdown-body table tr td:first-of-type {
+        border-left: none;
+    }
+    .markdown-body table tr th:last-of-type ,
+    .markdown-body table tr td:last-of-type {
+        border-right: none;
+    }
+  </style>
 ----- 請在上方下載檔案 -----
 
 ### 範例檔內含：
@@ -41,25 +57,11 @@
 
 &nbsp;
 
-> ---  目前比較常見的 UI/UX 設計軟體有  ---
+> ---  目前比較常見的 UI/UX 設計軟體  ---
 >
-
->| 左对齐 | 居中 | 右对齐 | 右对齐 | 右对齐 |
-| ------------- | ----------- | ----------- |----------- |----------- |
-|[ADOBE XD](https://www.adobe.com/tw/products/xd.html)|[SKETCH](https://www.sketch.com/) |[Figma](https://www.figma.com/) |[INVISION](https://www.invisionapp.com/) |[PROTOPIE](http://pxlme.me/veInML62) |
-
-
-| 表头1  | 表头2|
-| ---------- | -----------|
-| 表格单元   | 表格单元   |
-| 表格单元   | 表格单元   |
-
-> * [ADOBE XD](https://www.adobe.com/tw/products/xd.html)      
-> * [SKETCH](https://www.sketch.com/)
-> * [INVISION](https://www.invisionapp.com/)
-> * [PROTOPIE](http://pxlme.me/veInML62)
-
-&nbsp;
+>|[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-xd.svg" alt="xd">](#!) | [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-sk.svg" alt="SKETCH">](#!) | [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-invision.svg" alt="invision">](#! | [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-protopie.svg" alt="protopie">](#! | [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-figma.svg" alt="figma">](#! |
+| :---: | :---: | :---: | :---: | :---: |
+|[ADOBE XD](https://www.adobe.com/tw/products/xd.html)|[SKETCH](https://www.sketch.com/) |[FIGMA](https://www.figma.com/) |[INVISION](https://www.invisionapp.com/) |[PROTOPIE](http://pxlme.me/veInML62) |
 
 &nbsp;
 
