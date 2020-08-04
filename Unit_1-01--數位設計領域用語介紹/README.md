@@ -16,6 +16,8 @@
 
 &nbsp;
 
+&nbsp;
+
 ### 1. 資訊架構 Information Architecture (IA)
 包括網站、App的結構安排以及內容是如何組織的，目的是幫助用戶快速找到信息並且完成操作。
 
@@ -24,14 +26,11 @@
 
 &nbsp;
 
-
-
----跨平台流程圖製作工具 `(Mac/Win的可以使用，線上編輯)` ---
+> ---  跨平台流程圖製作工具 (Mac/Win的可以使用，線上編輯)  ---
+>
 > [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-drawio.png" alt="跨平台流程圖製作工具 -- DRAW.IO">](#!)
-> [<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/logo-drawio.svg" alt="跨平台流程圖製作工具 -- DRAW.IO">](https://drawio-app.com/)
->> * [DRAW.IO 線上使用網址](https://www.draw.io/)
-
-&nbsp;
+> 
+> * [DRAW.IO 線上使用網址](https://www.draw.io/)
 
 &nbsp;
 
@@ -42,7 +41,18 @@
 
 &nbsp;
 
---- 目前比較常見的 UI/UX 設計軟體有 ---
+> ---  目前比較常見的 UI/UX 設計軟體有  ---
+>
+
+>| 左对齐 | 居中 | 右对齐 | 右对齐 | 右对齐 |
+| ------------- | ----------- | ----------- |----------- |----------- |
+|[ADOBE XD](https://www.adobe.com/tw/products/xd.html)|[SKETCH](https://www.sketch.com/) |[Figma](https://www.figma.com/) |[INVISION](https://www.invisionapp.com/) |[PROTOPIE](http://pxlme.me/veInML62) |
+
+
+| 表头1  | 表头2|
+| ---------- | -----------|
+| 表格单元   | 表格单元   |
+| 表格单元   | 表格单元   |
 
 > * [ADOBE XD](https://www.adobe.com/tw/products/xd.html)      
 > * [SKETCH](https://www.sketch.com/)
