@@ -1,11 +1,9 @@
-[<img src="https://img.shields.io/badge/Ｖersion-v1.0.0-brightgreen?style=flat">](#!)     
-
-[<img src="https://img.shields.io/badge/Author-BarrY-green?style=flat">](#!)
+[<img src="https://img.shields.io/badge/Ｖersion-v1.0.0-brightgreen?style=flat">](#!)     [<img src="https://img.shields.io/badge/Author-BarrY-green?style=flat">](#!)
 
 &nbsp;
 &nbsp;
 
-[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/b6f0f0ec6664ab7d12c365f09880bcb13d3b0118/Lesson002%20(1)%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ui.svg">](#!) 
+[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/b6f0f0ec6664ab7d12c365f09880bcb13d3b0118/Lesson002%20(1)%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ui.svg" style="width:100%">](#!) 
 
 &nbsp;
 &nbsp;
