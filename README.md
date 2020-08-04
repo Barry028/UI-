@@ -1,4 +1,7 @@
-![image](https://img.shields.io/badge/version-v1.0.0-brightgreen?url=1&style=flat-square&logo=appveyorstyle)
+https://img.shields.io/badge/version-v1.0.0-brightgreen?url=111&style=flat-square&logo=appveyorstyle
+
+
+https://img.shields.io/github/issues/Barry028/Ui-Design
 
 ![image](Lesson002%20(1)%20-%20%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ui.svg)
 
