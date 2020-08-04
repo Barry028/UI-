@@ -15,8 +15,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ### 1.  資訊架構 Information Architecture (IA)
 
 [<img src="https://github.com/Barry028/Ui-Design/blob/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ia.png" alt="資訊架構 Information Architecture">](#!)
@@ -26,10 +24,11 @@
 換句話說，資訊架構就是組織好網站或者App的結構，讓用戶明白目前所在的位置，知道所找的資訊在哪裡。<br>
 資訊架構師的工作包括設計網站地圖、層次結構、分類、導航和元數據。當內容規劃師開始將內容分開並歸類的時候，這就是資訊架構。
 
+&nbsp;
 
 > ---  跨平台流程圖製作工具 (Mac/Win的可以使用，線上編輯)  ---
->
-> [<img width="480" src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-drawio.png" alt="跨平台流程圖製作工具 -- DRAW.IO">](#!)
+
+> [<img width="480" src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ia.png" alt="跨平台流程圖製作工具 -- DRAW.IO">](#!)
 > 
 > * [DRAW.IO 線上使用網址](https://www.draw.io/)
 
@@ -37,12 +36,13 @@
 
 ### 2.  介面設計 User Interface Design (UI)
 
-[<img src="https://github.com/Barry028/Ui-Design/blob/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ui.png" alt="資訊架構 Information Architecture">](#!)
+[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ui.png" alt="介面設計 User Interface Design (UI)">](#!)
 
 介面設計就是如何選取合適的界面元素，例如文字、按鈕、文本框、顏色等。
 
 做這些目的是就是讓用戶在界面上完成一項操作的時候，覺得易懂、易用。盡可能的讓用戶與介面的交互簡單高效。
 
+&nbsp;
 
 > ---  目前比較常見的 UI/UX 設計軟體  ---
 >
@@ -54,7 +54,7 @@
 
 ### 3.  使用者經驗設計 User Experience Design (UX)
 
-[<img src="https://github.com/Barry028/Ui-Design/blob/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ux.png" alt="資訊架構 Information Architecture">](#!)
+[<img src="https://raw.githubusercontent.com/Barry028/Ui-Design/master/Unit_1-02--%E5%9F%BA%E6%9C%AC%E5%AD%97%E5%9E%8B%E4%BB%8B%E7%B4%B9/img/img-ux.png" alt="使用者經驗設計 User Experience Design (UX)">](#!)
 
 使用者經驗設計（也可叫做UXD、UED、XD)，是指通過提高產品的可用性、易用性、以及人與產品交互過程中的愉悅程度，從而來提高用戶滿意度的過程。
 
