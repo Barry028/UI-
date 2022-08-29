@@ -44,6 +44,19 @@
     </body>
     </html>
     ```
+
+### 獲取 DOM 元素有哪些方法
+| 方法 | 描述 | 返回類型 |
+| :-----| ----: | :----: |
+| document.getElementById(id)            | 通過id獲取dom | 符合條件的dom對象|
+| document.getElementsByTagName(tagName) | 通過標籤名獲取dom    | 符合條件的所有dom對象組成的類數組|
+| document.getElementsByClassName(class) | 通過class獲取dom  | 符合條件的所有dom對象組成的類數組|
+| document.getElementsByName(name)       | 通過標籤的屬性name獲取dom  | 符合條件的所有dom對象組成的類數組|
+| document.querySelector(選擇器)          | 通過選擇器獲取dom  | 符合條件的第一個dom對象|
+| document.querySelectorAll(選擇器)       | 通過選擇器獲取dom  | 符合條件的所有dom對象組成的類數組|
+
+
+
 * 無結尾標籤 **Singleton tags** 會出現在樹狀模型的末端，也就是裡面**不會有內容**，常見的有：`<img>、<br>、<hr>、<link>等等`
 * **相對路徑：** 從該文件位置出發到另一檔案的路徑
 * **絕對路徑：** 透過 IP 到達的路徑
