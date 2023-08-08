@@ -1,15 +1,3 @@
-| <h4>Sloth name</h4>   | <h4>Sloth colors</h4> | <h4>Sloth powers</h4> |
-| --------------------- | --------------------- | --------------------- |
-| <b>Stormy</b>         | Gray                  | Wind                  |
-|                       | Light blue            | Ice                   |
-|                       | Purple                | Rain                  |
-|                                                                       |
-| <b>Lava</b>           | Red                   | Fire                  |
-|                       | Orange                |                       |
-|                       | Black                 |                       |
-|                                                                       |
-| <b>Electric</b>       | Yellow                | Lightning             |
-|                       | White                 | Wifi                  |
 
 [<img src="https://img.shields.io/badge/Ｖersion-v1.0.0-brightgreen?style=flat">](#!) &nbsp; &nbsp;[<img src="https://img.shields.io/badge/Author-BarrY-green?style=flat">](#!)
 
