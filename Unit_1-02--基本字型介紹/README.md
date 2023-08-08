@@ -1,4 +1,3 @@
-
 ----- 請在上方下載檔案 -----
 
 :book: Unit 1-02 - 基本字型介紹
@@ -7,7 +6,7 @@
 
 &nbsp;
 
-### :pushpin: 課程內容
+### :bookmark: 課程內容
  - [中英文字型類別](#%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AD%97%E5%9E%8B%E9%A1%9E%E5%88%A5)
  - [避免用假粗體、假斜體](#%E9%81%BF%E5%85%8D%E7%94%A8%E5%81%87%E7%B2%97%E9%AB%94%E3%80%81%E5%81%87%E6%96%9C%E9%AB%94)
  - [必要熟悉的系統字體](#%E5%BF%85%E8%A6%81%E7%86%9F%E6%82%89%E7%9A%84%E7%B3%BB%E7%B5%B1%E5%AD%97%E9%AB%94)
@@ -138,20 +137,18 @@
 ---
 
 ### :pushpin: 外部資源參考
-  * --- 常見網路字體商 ---
-    * [JUST FONT 就是字！](https://justfont.com/)
-    * [GOOGLE FONTS](https://fonts.google.com/)
-    * [文鼎科技](http://www.arphic.com.tw)
-    * [華康字型](https://www.dynacw.com.tw/)
-    * [ADOBE TYPEKIT](https://fonts.adobe.com/typekit)
-  * --- 部落格 ---
-    * [JUST FONT 部落格](https://blog.justfont.com/)
-  * --- Facebook 社群 ---
-    * [字戀](https://www.facebook.com/lovefonts/)
-    * [字嗨過頭：字取其辱戀](https://www.facebook.com/groups/annoyfonts/)  
+
+- --- 常見網路字體商 ---
+  - [JUST FONT 就是字！](https://justfont.com/)
+  - [GOOGLE FONTS](https://fonts.google.com/)
+  - [文鼎科技](http://www.arphic.com.tw)
+  - [華康字型](https://www.dynacw.com.tw/)
+  - [ADOBE TYPEKIT](https://fonts.adobe.com/typekit)
+- --- 部落格 ---
+  - [JUST FONT 部落格](https://blog.justfont.com/)
+- --- Facebook 社群 ---
+  - [字戀](https://www.facebook.com/lovefonts/)
+  - [字嗨過頭：字取其辱戀](https://www.facebook.com/groups/annoyfonts/)  
     `字嗨社團會有很多字體高手在裡面分享文章及交流，很多人在路上看到很棒的字體會上去詢問是什麼字型之類的，建議加入！`
-  * --- 下章節介紹 ---
-    * [開源中文字體下載](https://github.com/Barry028/Ui-Design/tree/master/Lesson002%20(2)%20-%20%E9%96%8B%E6%BA%90%E4%B8%AD%E6%96%87%E5%AD%97%E9%AB%94%E4%B8%8B%E8%BC%89)
-
-
-
+- --- 下章節介紹 ---
+  - [開源中文字體下載](<https://github.com/Barry028/Ui-Design/tree/master/Lesson002%20(2)%20-%20%E9%96%8B%E6%BA%90%E4%B8%AD%E6%96%87%E5%AD%97%E9%AB%94%E4%B8%8B%E8%BC%89>)
