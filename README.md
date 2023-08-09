@@ -1,23 +1,49 @@
 <kbd>
-  <img src="https://api.dicebear.com/6.x/thumbs/svg?shapeColor=0a5b83,1c799f,69d2e7&radius=10&seed=Callie" width="64"/>
-</kbd>
-<kbd>
-  <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundType=gradientLinear,solid&radius=10&seed=Felix" width="64"/>
+  <img src="https://api.dicebear.com/6.x/thumbs/svg?shapeColor=0a5b83,1c799f,69d2e7&radius=10&seed=Callie" alt="avatar" width="64" />
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&radius=10&seed=Precious" width="64"/>
+  <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundType=gradientLinear,solid&radius=10&seed=Felix" alt="avatar" width="64" />
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&radius=10&seed=Willow" width="64"/>
+  <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&radius=10&seed=Precious" alt="avatar" width="64" />
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&radius=10&seed=Boo" width="64"/>
+  <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&radius=10&seed=Willow" alt="avatar" width="64" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&radius=10&seed=Boo" alt="avatar" width="64" />
 </kbd>
 
 
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/fun-emoji/svg?seed=Bailey" alt="avatar" width="64" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/fun-emoji/svg?seed=Felix" alt="avatar" width="64" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/fun-emoji/svg?seed=Sophie" alt="avatar" width="64" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/fun-emoji/svg?seed=Aneka" alt="avatar" width="64" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/fun-emoji/svg?backgroundType=gradientLinear,solid" alt="avatar" width="64" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/fun-emoji/svg?seed=Bandit" alt="avatar" width="64" />
+</kbd>
+  
 
 [<img src="https://img.shields.io/badge/Ｖersion-v1.0.0-brightgreen?style=flat">](#!) &nbsp; &nbsp;[<img src="https://img.shields.io/badge/Author-BarrY-green?style=flat">](#!)
 
