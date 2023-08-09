@@ -1,3 +1,6 @@
+
+<-- thumns !-->
+
 <kbd>
   <img src="https://api.dicebear.com/6.x/thumbs/svg?shapeColor=0a5b83,1c799f,69d2e7&radius=10&seed=Callie" alt="avatar" width="64" />
 </kbd>
@@ -18,9 +21,32 @@
   <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&radius=10&seed=Boo" alt="avatar" width="64" />
 </kbd>
 
+---
+<-- Bots !-->
+
 <kbd>
-  <img src="https://api.dicebear.com/6.x/bottts-neutral/svg?seed=George" alt="avatar" alt="avatar" width="64" />
+  <img src="https://api.dicebear.com/6.x/bottts-neutral/svg?seed=George" alt="avatar" width="64" />
 </kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/bottts-neutral/svg?seed=Felix" alt="avatar" width="64" />
+</kbd>
+
+<kbd>
+   <img src="https://api.dicebear.com/6.x/bottts-neutral/svg?seed=Aneka" alt="avatar" width="64" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/bottts-neutral/svg?seed=Leo&eyes=roundFrame01,eva" width="64" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/bottts-neutral/svg?seed=seed=Lucky&eyes=roundFrame02" width="64" />
+</kbd>
+
+---
+
+<-- Emojis !-->
 
 <kbd>
   <img src="https://api.dicebear.com/6.x/fun-emoji/svg?seed=Bailey" alt="avatar" width="64" />
@@ -43,7 +69,7 @@
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/fun-emoji/svg?seed=Bandit" alt="avatar" width="64" />
+  <img src="https://api.dicebear.com/6.x/fun-emoji/svg?seedbackgroundTyperoundFrame01" alt="avatar" width="64" />
 </kbd>
   
 
