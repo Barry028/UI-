@@ -18,7 +18,9 @@
   <img src="https://api.dicebear.com/6.x/thumbs/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&radius=10&seed=Boo" alt="avatar" width="64" />
 </kbd>
 
-
+<kbd>
+  <img src="https://api.dicebear.com/6.x/bottts-neutral/svg?seed=George" alt="avatar" alt="avatar" width="64" />
+</kbd>
 
 <kbd>
   <img src="https://api.dicebear.com/6.x/fun-emoji/svg?seed=Bailey" alt="avatar" width="64" />
