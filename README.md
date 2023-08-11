@@ -1,21 +1,53 @@
-<p align="center" width="100%">
-  
-  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-  
-  ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
-  
-  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-  
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-</p>
+
+
+[![Badge](https://q5gj2lkga3zw.runkit.sh)](https://git.io/gradientbadge)
+
+
+
+
+
+
+[![Adobe][Adobe]][Adobe]
+[![Adobe Fonts][AdobeFonts]][AdobeFonts]
+[![Adobe Illustrator][AdobeIllustrator]][AdobeIllustrator]
+[![Adobe Photoshop][AdobePhotoshop]][AdobePhotoshop]
+[![Adobe XD][AdobeXD]][AdobeXD]
+[![Draw.Io][DrawIo]][DrawIo]
+[![Figma][Figma]][Figma]
+[![Sketch][Sketch]][Sketch]
+[![Html5][Html5]][Html5]
+[![Css3][Css3]][Css3]
+[![JavaScript][JavaScript]][JavaScript]
+[![BarrY][BarrY]][BarrY]
+[![CreativeCloud][CreativeCloud]][CreativeCloud]
+
+
+  [CreativeCloud]: https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23DA1F26.svg?style=flat-square&logo=adobecreativecloud&logoColor=FDE5E6&color=DA1F26&labelColor=EBEBEF
+
+  [BarrY]: https://img.shields.io/badge/Github-%23CEFF35.svg?style=flat-square&logo=GitHub&logoColor=CEFF35&labelColor=15171B&color=CEFF35
+
+  [Adobe]: https://img.shields.io/badge/Adobe-%23E54B22.svg?style=flat-square&logo=adobe&logoColor=white
+  
+  [AdobeFonts]: https://img.shields.io/badge/Adobe%20Fonts-%234E4E4E.svg?style=flat-square&logo=Adobe%20Fonts&logoColor=white&labelColor=231402
+  
+  [AdobeIllustrator]: https://img.shields.io/badge/Adobe%20illustrator-%234B200A.svg?style=flat-square&logo=adobe%20illustrator&logoColor=FF9A2A&labelColor=231402
+  
+  [AdobePhotoshop]: https://img.shields.io/badge/Adobe%20Photoshop-%2334377C.svg?style=flat-square&logo=adobe%20photoshop&logoColor=19A6FB&labelColor=222334
+  
+  [AdobeXD]: https://img.shields.io/badge/Adobe%20XD-%2394008C?style=flat-square&logo=Adobe%20XD&logoColor=F85EF0&labelColor=50004C 
+
+  [DrawIo]: https://img.shields.io/badge/Draw.io-%23F08705.svg?style=flat-square&logo=diagramsdotnet&logoColor=white&labelColor=F08705&color=DF6C0C
+
+  [Figma]: https://img.shields.io/badge/Figma-%23171C1F.svg?style=flat-square&logo=figma&logoColor=2DBFF9&labelColor=45393B
+  
+  [Sketch]: https://img.shields.io/badge/Sketch-%23FFF5DE?style=flat-square&logo=sketch&logoColor=F7B500&labelColor=FEEEB7&color=F7F1DF  
+
+  [Html5]: https://img.shields.io/badge/Html5-%23F0523D.svg?style=flat-square&logo=html5&logoColor=white&labelColor=FF9580 
+  
+  [Css3]: https://img.shields.io/badge/Css3-%23161F6D.svg?style=flat-square&logo=css3&logoColor=00ABE1
+  
+  [JavaScript]: https://img.shields.io/badge/Javascript-%2357544D.svg?style=flat-square&logo=javascript&logoColor=%23FDD62C
 
 <-- thumns !-->
 
