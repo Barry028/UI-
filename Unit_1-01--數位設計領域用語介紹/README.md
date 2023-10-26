@@ -3,23 +3,6 @@
 
  [![General badge](https://img.shields.io/badge/你好-12-<#59B8B2>.svg)](https://shields.io/)
 
-> **Note**\
-> We ask that all users read our [legal disclaimer](./DISCLAIMER.md) before using icons from Simple Icons.
-
-[![CodeForces Profile](https://cf.leed.at?id=Ui-Design)](https://codeforces.com/profile/Ui-Design)
-
-
-https://primer.style/design/foundations/icons/logo-github-16
-
-
-
-![Drawio library](https://github.com/mondeja/simple-icons-drawio)
-
-![Drawio](https://cdn.simpleicons.org/diagramsdotnet/fff/000/)
-
-<img src="https://cdn.simpleicons.org/diagramsdotnet/fff/000" alt="Drawio" align=left width=24 height=24> | [@mondeja](https://github.com/mondeja) 
-
-
 ----- 請在上方下載檔案 -----
 
 :book: Unit 1-01 - 數位設計
